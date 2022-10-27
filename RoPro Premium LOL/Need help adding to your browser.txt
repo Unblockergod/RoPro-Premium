@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=yQZDADoNERw
+Very old video but works
+
+Dont want to watch video?
+1. Go to manage extensions on your browser
+2. Wherever it says, press Developer mode.
+3. Then, press load unpacked extension
+4. Take this extension and add it to browser.
+5. There ya go!
+
+MAKE SURE TO TAKE FOLDER OUT OF WINRAR INTO FOLDER
